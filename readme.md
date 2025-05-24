@@ -5,9 +5,10 @@ This is a domain replacer extension created for personal requirement. This exten
 For instance, if you would like to replace fluent.info with testwp.test domain you need to do the following in the code
 
 1. Replace fluent.info with the domain you would like to replace in the background.js
+
    ![alt text](image.png)
 
-2. Replace testwp.test with your localhost domain.
+3. Replace testwp.test with your localhost domain.
 
 Finally, in the chrome extension page, enable developer mode and select load unpacked to load the folder
 
